@@ -1,4 +1,4 @@
-Copyright (C) 2012 by Kris
+Copyright (C) 2012 Bitpay.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@ About
 Version 0.1
 	
 System Requirements:
-	BitPay.com account
+	Bitpay.com account
 	VirtueMart
 	PHP 5+
 	Curl PHP Extension
@@ -36,10 +36,14 @@ Build Instructions:
   configuration instructions below.
 
 Configuration Instructions:
-	1. Got to Extension Manager: Install
-	2. Browse and select zip file, click Upload & Install.
-	3. Go to Manage, and find the plugin, click on publish.
-	4. Go to Components -> VirtueMart and click on Payment Methods.
-	5. Click New. and type in the information, selecting VMPAYMENT_BITPAY as Payment Method.
-	6. Create an API Key in your bitpay account at bitpay.com.
-	7. Click Configuration in the Tab menu, and enter your API Key from step 4
+-------
+1. Go to Extensions > Extension Manager > Install
+2. Browse and select zip file, click Upload & Install.
+3. Go to Extensions > Extension Manager > Manage, and find the plugin, click on publish.
+4. Go to Components > VirtueMart and click on Payment Methods.
+5. Click New and type in the information, selecting VMPAYMENT_BITPAY as Payment Method.
+6. Create an API Key in your bitpay account at bitpay.com.
+7. Click Configuration tab and enter your API Key.
+8. Click Save.
+
+Tested against Joomla 2.5.9 and Virtuemart 2.0.20b
