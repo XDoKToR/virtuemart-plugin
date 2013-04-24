@@ -39,7 +39,7 @@ Configuration Instructions:
 -------
 1. Go to Extensions > Extension Manager > Install
 2. Browse and select zip file, click Upload & Install.
-3. Go to Extensions > Extension Manager > Manage, and find the plugin, click on publish.
+3. Go to Extensions > Extension Manager > Manage, find VMPAYMENT_BITPAY and enable it.
 4. Go to Components > VirtueMart and click on Payment Methods.
 5. Click New and type in the information, selecting VMPAYMENT_BITPAY as Payment Method.
 6. Create an API Key in your bitpay account at bitpay.com.
