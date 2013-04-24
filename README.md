@@ -42,8 +42,9 @@ Configuration Instructions:
 3. Go to Extensions > Extension Manager > Manage, find VMPAYMENT_BITPAY and enable it.
 4. Go to Components > VirtueMart and click on Payment Methods.
 5. Click New and type in the information, selecting VMPAYMENT_BITPAY as Payment Method.
-6. Create an API Key in your bitpay account at bitpay.com.
-7. Click Configuration tab and enter your API Key.
-8. Click Save.
+6. Click Save.
+7. Create an API Key in your bitpay account at bitpay.com.
+8. Click Configuration tab and enter your API Key.
+9. Click Save.
 
 Tested against Joomla 2.5.9 and Virtuemart 2.0.20b
